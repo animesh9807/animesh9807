@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @animesh9807
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web developement
-- 💞️ I’m looking to collaborate on machine learning
+- 💞️ I’m looking to collaborate on Gmail
 - 📫 How to reach me animeshkansal01@gmail.com
 
 <!---
