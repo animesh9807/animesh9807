@@ -1,4 +1,5 @@
-<img width="100%" src="https://github.com/user-attachments/assets/1cab1933-c6c5-4e5e-948d-f41ec1651755">
+<img width="1731" height="904" alt="blondddd_crop" src="https://github.com/user-attachments/assets/95156438-f280-4ecb-a8a6-b07f05e3ba48" />
+
 <br><br>
 trying out cool stuff
 <br><br>
