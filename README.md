@@ -8,8 +8,8 @@ flutter // web dev // dsa
 <br>
 <br>
 
-<a href="https://animesh9807.github.io/ME" rel = "nofollow" target="_blank">website</a> &nbsp; | &nbsp;
-<a href="https://leetcode.com/u/animeshkansal" rel = "nofollow" target="_blank">leetcode</a>  &nbsp; | &nbsp;
-<a href="https://www.linkedin.com/in/animesh-kansal-34b8a1376" rel = "nofollow" target="_blank">linkedin</a> &nbsp; | &nbsp;
+<a href="https://animesh9807.github.io/ME" target="_blank">website</a> &nbsp; | &nbsp;
+<a href="https://leetcode.com/u/animeshkansal" target="_blank">leetcode</a>  &nbsp; | &nbsp;
+<a href="https://www.linkedin.com/in/animesh-kansal-34b8a1376" target="_blank">linkedin</a> &nbsp; | &nbsp;
 <a href="mailto:animeshkansal01@gmail.com" target="_blank">email</a>
 
