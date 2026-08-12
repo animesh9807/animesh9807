@@ -4,7 +4,7 @@
 
 
 <br><br>
-flutter // web dev // dsa
+flutter // web dev // python // C++
 <br>
 <br>
 
